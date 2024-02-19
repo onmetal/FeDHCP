@@ -1,3 +1,5 @@
+# Moved to https://github.com/ironcore-dev/FeDHCP
+
 FeDHCP
 ======
 
